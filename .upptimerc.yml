@@ -8,7 +8,7 @@ sites:
   - name: NPTEL Archive
     url: https://archive.nptel.ac.in
   - name: Internal Dashboard
-    url: https://dashboard.dev.nptel.ac.in/InternalCandidateDashboard/
+    url: $URL_INT_DASHBOARD
   - name: EE Moodle
     url: https://eex.dev.iitm.ac.in
   - name: Jupyter server
