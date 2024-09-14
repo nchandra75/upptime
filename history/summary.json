@@ -22,71 +22,79 @@
     "url": "https://archive.nptel.ac.in",
     "icon": "https://icons.duckduckgo.com/ip3/archive.nptel.ac.in.ico",
     "slug": "nptel-archive",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.85%",
+    "uptimeDay": "99.85%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.85%",
+    "uptimeYear": "99.85%",
     "time": 1292,
     "timeDay": 1292,
     "timeWeek": 1292,
     "timeMonth": 1292,
     "timeYear": 1292,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-09-14": 2
+    }
   },
   {
     "name": "Internal Dashboard",
     "url": "$URL_INT_DASHBOARD",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "internal-dashboard",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.90%",
+    "uptimeDay": "99.90%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.90%",
+    "uptimeYear": "99.90%",
     "time": 787,
     "timeDay": 787,
     "timeWeek": 787,
     "timeMonth": 787,
     "timeYear": 787,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-09-14": 1
+    }
   },
   {
     "name": "EE Moodle",
     "url": "https://eex.dev.iitm.ac.in",
     "icon": "https://icons.duckduckgo.com/ip3/eex.dev.iitm.ac.in.ico",
     "slug": "ee-moodle",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.95%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.95%",
     "time": 1280,
     "timeDay": 1280,
     "timeWeek": 1280,
     "timeMonth": 1280,
     "timeYear": 1280,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-09-14": 1
+    }
   },
   {
     "name": "Jupyter server",
     "url": "https://jup.dev.iitm.ac.in",
     "icon": "https://icons.duckduckgo.com/ip3/jup.dev.iitm.ac.in.ico",
     "slug": "jupyter-server",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 1518,
     "timeDay": 1518,
     "timeWeek": 1518,
     "timeMonth": 1518,
     "timeYear": 1518,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-09-14": 0
+    }
   }
 ]
