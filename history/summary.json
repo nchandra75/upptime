@@ -76,17 +76,19 @@
     "url": "https://jup.dev.iitm.ac.in",
     "icon": "https://icons.duckduckgo.com/ip3/jup.dev.iitm.ac.in.ico",
     "slug": "jupyter-server",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 3786,
-    "timeDay": 1521,
-    "timeWeek": 3786,
-    "timeMonth": 3786,
-    "timeYear": 3786,
-    "dailyMinutesDown": {}
+    "time": 4815,
+    "timeDay": 7801,
+    "timeWeek": 4815,
+    "timeMonth": 4815,
+    "timeYear": 4815,
+    "dailyMinutesDown": {
+      "2024-09-17": 0
+    }
   }
 ]
