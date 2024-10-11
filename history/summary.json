@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.94%",
-    "time": 269,
-    "timeDay": 223,
-    "timeWeek": 218,
-    "timeMonth": 269,
-    "timeYear": 269,
+    "time": 268,
+    "timeDay": 247,
+    "timeWeek": 219,
+    "timeMonth": 268,
+    "timeYear": 268,
     "dailyMinutesDown": {
       "2024-09-18": 24
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.96%",
-    "time": 1308,
-    "timeDay": 1288,
-    "timeWeek": 1316,
-    "timeMonth": 1308,
-    "timeYear": 1308,
+    "time": 1310,
+    "timeDay": 1369,
+    "timeWeek": 1326,
+    "timeMonth": 1310,
+    "timeYear": 1310,
     "dailyMinutesDown": {
       "2024-09-21": 17
     }
@@ -50,11 +50,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.96%",
-    "time": 785,
-    "timeDay": 860,
-    "timeWeek": 831,
-    "timeMonth": 785,
-    "timeYear": 785,
+    "time": 786,
+    "timeDay": 814,
+    "timeWeek": 825,
+    "timeMonth": 786,
+    "timeYear": 786,
     "dailyMinutesDown": {
       "2024-09-21": 17
     }
@@ -71,8 +71,8 @@
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.96%",
     "time": 1252,
-    "timeDay": 1365,
-    "timeWeek": 1301,
+    "timeDay": 1256,
+    "timeWeek": 1293,
     "timeMonth": 1252,
     "timeYear": 1252,
     "dailyMinutesDown": {
@@ -85,16 +85,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/jup.dev.iitm.ac.in.ico",
     "slug": "jupyter-server",
     "status": "up",
-    "uptime": "99.79%",
+    "uptime": "99.80%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.79%",
-    "uptimeYear": "99.79%",
-    "time": 4067,
-    "timeDay": 1471,
-    "timeWeek": 1463,
-    "timeMonth": 4067,
-    "timeYear": 4067,
+    "uptimeMonth": "99.80%",
+    "uptimeYear": "99.80%",
+    "time": 4004,
+    "timeDay": 1547,
+    "timeWeek": 1459,
+    "timeMonth": 4004,
+    "timeYear": 4004,
     "dailyMinutesDown": {
       "2024-09-21": 56,
       "2024-09-17": 24
